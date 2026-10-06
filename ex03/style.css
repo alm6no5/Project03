@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#count {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 16px;
+    margin: 5px;
+    cursor: pointer;
+}
